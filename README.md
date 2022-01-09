@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Siju</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siju-s&label=Profile%20views&color=0e75b6&style=flat" alt="siju-s" /> </p>
 
-- 🌱  I’m currently learning **Swift**
 
 - 💬  Ask me about **Android, Kotlin, Java**
 
