@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siju-s&label=Profile%20views&color=0e75b6&style=flat" alt="siju-s" /> </p>
 
 
-- 💬  Ask me about **Android, Kotlin, Java**
+- 💬  Ask me about **Android, Kotlin, Java, Javascript**
 
 - 📫  Reach me at **sijus887@gmail.com**
 
