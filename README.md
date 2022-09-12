@@ -8,7 +8,6 @@
 - 📫  Reach me at **sijus887@gmail.com**
 
 # 💫 About Me :
-- Currently working as a Full stack developer under OPS
 - Pursuing Masters in CS from University of Florida
 - Mobile and Web developer
 
