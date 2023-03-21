@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siju-s&label=Profile%20views&color=0e75b6&style=flat" alt="siju-s" /> </p>
 
 
-- 💬  Ask me about **Android, Kotlin, Java, Javascript**
-
-- 📫  Reach me at **sijus887@gmail.com**
+- Ask me about **Android, Kotlin, Java, Javascript**
+- Reach me at **sijus887@gmail.com**
+- Check out my <a href= "https://drive.google.com/file/d/165aOEk8_0gSwUofDR_80B513HGIMf1Iq/view?usp=share_link">Resume</a>
 
 # 💫 About Me :
 - Pursuing Masters in CS from University of Florida
