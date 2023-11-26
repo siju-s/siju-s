@@ -8,9 +8,8 @@
 
 
 # 💫 About Me :
-- Pursuing Masters in CS from University of Florida
+- Masters in CS from University of Florida
 - Mobile and Web developer
-- Looking for Summer internships and full time roles from August
 - Ask me about **Android, Kotlin, Java, Javascript**
 - Reach me at **sijus887@gmail.com**
 - Check out my <a href= "https://drive.google.com/file/d/1_k4iPrILav6Qq0sGXicnrIikfZbCaBAD/view?usp=sharing">Resume</a>
