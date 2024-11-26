@@ -12,7 +12,6 @@
 - Mobile and Web developer
 - Ask me about **Android, Kotlin, Java, Javascript**
 - Reach me at **sijus887@gmail.com**
-- Check out my <a href= "https://drive.google.com/file/d/1_k4iPrILav6Qq0sGXicnrIikfZbCaBAD/view?usp=sharing">Resume</a>
 
 ## Checkout my app on Playstore
 <a href="https://play.google.com/store/apps/details?id=com.siju.acexplorer&hl=en" target="_blank">
